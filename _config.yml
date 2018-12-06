@@ -4,7 +4,7 @@ SEOTitle: Santiago的博客 | Santiago's Blog
 header-img: img/hometown.png
 email: gedelai@sina.com
 description: "邪不压正挺好看的！"
-keyword: "Santiago, Santiago's Blog, Santiago的博客, gedelai, 邱柏荧, Java, Golang, 后端"
+keyword: "Santiago, Santiago's Blog, Santiago的博客, gedelai, Java, Golang, 后端"
 url: "http://santiagogogo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/santiagogogo/santiagogogo.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/santiagogogo/santiagogogo.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "咱们裸熊挺好看的!"
-sidebar-avatar: /img/boy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/boy.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
