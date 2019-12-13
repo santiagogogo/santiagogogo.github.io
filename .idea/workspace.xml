@@ -6,7 +6,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hometown-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hometown-min.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hometown-min.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1543923435511</updated>
       <workItem from="1543923438824" duration="7751000" />
-      <workItem from="1576226591547" duration="2993000" />
+      <workItem from="1576226591547" duration="3303000" />
     </task>
     <servers />
   </component>
