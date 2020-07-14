@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc8bedc-9e1f-48e1-a556-fc751e954765" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-05-猪猪-王小波-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-05-猪猪-王小波-2018.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-10-2020下半年目标-santiago-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-10-2020下半年目标-santiago-2020.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-10-20的7月-santiago-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-10-20的7月-santiago-2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +118,8 @@
       <option name="presentableId" value="Default" />
       <updated>1594365908879</updated>
       <workItem from="1594365910170" duration="129000" />
-      <workItem from="1594370147392" duration="6969000" />
+      <workItem from="1594370147392" duration="7108000" />
+      <workItem from="1594448977329" duration="148000" />
     </task>
     <servers />
   </component>
